@@ -1,0 +1,6 @@
+frm_MenuPrincipal = 153, 187, 1303, 829, , 84, 61, 1045, 708, C
+frm_CadastrarCliente = 26, 26, 1086, 650, Z, 312, 312, 1372, 962, C
+frm_CadastrarCorretor = 286, 286, 1346, 910, , 104, 104, 1164, 754, C
+frm_ConsultarClientes = 52, 52, 1112, 676, , 156, 156, 1216, 806, C
+BancoDeDados = 0, 0, 1060, 624, 
+FuncoesGerais = 312, 312, 1372, 936, 
